@@ -19,6 +19,11 @@ Proyek ini adalah aplikasi Todo List berbasis web yang memungkinkan pengguna unt
 1. Konfirmasi Penghapusan - Fitur ini memastikan pengguna tidak menghapus tugas secara tidak sengaja.
 2. Status Tugas - Tugas yang sudah selesai ditampilkan dengan line-through untuk membedakan tugas yang sudah diselesaikan dan belum.
 3. Formulir Dinamis untuk Edit - Pengguna dapat mengedit tugas dengan mudah melalui formulir dinamis yang ditampilkan saat pengguna memilih tugas untuk diperbarui.
-Alur Dari To-Do List
 
+## Alur Dari To-Do List
+### 1. Tampilan Awal
 ![Tampilan awal](https://github.com/RaniSitiNabila/Gambar-UTS-PBW/blob/main/Cuplikan%20layar%202024-11-08%20131506.png) 
+Tampilan ini adalah antarmuka sederhana untuk aplikasi Todo List, dengan judul "Todo List" di bagian atas, kotak input untuk menambahkan tugas baru, dan tombol "Add" berwarna biru di sebelahnya. Pengguna bisa mengetik deskripsi tugas di kotak teks dan menambahkannya ke daftar dengan menekan tombol tersebut
+### 2. Menambah Tugas Baru
+![Tampilan awal](
+
