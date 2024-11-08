@@ -21,4 +21,4 @@ Proyek ini adalah aplikasi Todo List berbasis web yang memungkinkan pengguna unt
 3. Formulir Dinamis untuk Edit - Pengguna dapat mengedit tugas dengan mudah melalui formulir dinamis yang ditampilkan saat pengguna memilih tugas untuk diperbarui.
 Alur Dari To-Do List
 
-https://github.com/RaniSitiNabila/Gambar-UTS-PBW/blob/main/Cuplikan%20layar%202024-11-08%20131506.png 
+![Tampilan awal](https://github.com/RaniSitiNabila/Gambar-UTS-PBW/blob/main/Cuplikan%20layar%202024-11-08%20131506.png) 
